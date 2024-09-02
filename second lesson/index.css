@@ -1,0 +1,46 @@
+.search-bar{
+    display: block;
+}
+.images{
+    width: 300px;
+    display: block;
+
+}
+.fpara{
+    margin-top: 0;
+    line-height: 30px;
+
+}
+p{
+    font-family:Sevillana, Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    margin-bottom: 12px;
+    
+}
+.video-description{
+    width: 300px;
+}
+.profile-image{
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+.video-text{
+    padding-top: 0;
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+  
+   
+}

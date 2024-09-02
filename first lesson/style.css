@@ -1,0 +1,39 @@
+
+.video-title{
+   font-family: New Amsterdam;
+   font-weight: bold;
+   font-size: 25px;
+   width: 280px;
+   line-height: 25px;
+   margin-bottom: 3px;
+} 
+.video-description{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+.name1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    margin-top: 3px;
+}
+.name2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    line-height: 20px;
+}
+.shop{
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+.btn{
+    transition: hover 1s;
+}
+.btn:hover{
+    color:white;   
+    cursor: pointer; 
+}
