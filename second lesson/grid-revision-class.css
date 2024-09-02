@@ -1,17 +1,21 @@
 .conatiner{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 300px
+    
+}
+.profile-container{
+    display: grid;
+    grid-template-columns: 25px 1fr;
     column-gap: 10px;
 }
-.data1{
-    background-color: red;
-    height: 200px;
+.main-image {
+    width: 300px;
 }
-.data2{
-    background-color: green;
-    height: 200px;
+.profile-image{
+    width: 25px;
+    border-radius: 30px;
 }
-.data3{
-    background-color: blueviolet;
-    height: 200px;
+p{
+    margin-top: 0;
+    margin-bottom: 0;
 }
