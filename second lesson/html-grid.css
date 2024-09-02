@@ -1,21 +1,16 @@
 .container{
     width: 300px;
 }
-.main-image{
+.image-description, .main-image{
     width: 300px;
 }
-.text-container{
+.profile-container{
     display: grid;
     grid-template-columns: 30px 1fr;
 }
 .profile-image{
-    width: 30px;
-    margin-right:25px;
+    width: 30px ;
 }
-p{
+.p1{
     margin-top: 0;
-    margin-bottom: 0;
-}
-.profile-text{
-    margin-left: 10px;
 }
